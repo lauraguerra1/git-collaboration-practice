@@ -1,3 +1,7 @@
-# GIT WORKFLOW 
-# MORE STUFF TO README.MD 
-# created new branch called readmeupdate
+
+
+# GIT WORKFLOW
+- git checkout -b branch-name 
+- git add .
+- git commit -m "Commit msg"
+
