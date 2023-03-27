@@ -5,3 +5,4 @@
 - git add .
 - git commit -m "Commit msg"
 
+- can you see this stuff?
